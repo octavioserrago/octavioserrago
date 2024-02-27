@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Octavio Serrago</h1>
-<h2 align="center">An enthusiast for implementing information technology in almost everything</h2>
+<h4 align="center">An enthusiast for implementing information technology in almost everything ☕️</h4>
 
 - 📫 How to reach me **octavioserrago.dev@gmail.com**
 
