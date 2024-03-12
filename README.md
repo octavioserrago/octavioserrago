@@ -23,7 +23,8 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a> 
-  <a href="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png" width="36" height="36" alt="Astro" /></a>
+  <a href="https://astro.build" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png" width="36" height="36" alt="Astro" /></a>
+   <a href="https://openjfx.io" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/07/communityIcon_4v21sx0aiam41.png?fit=256%2C171&ssl=1" width="36" height="36" alt="JavaFX" /></a>
 </p>
 
 
