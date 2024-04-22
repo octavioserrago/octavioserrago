@@ -5,7 +5,7 @@
 - 🌍  I'm based in BA, Argentina
 - ✉️ How to reach me **octavioserrago.dev@gmail.com**
 - 🚀  I'm currently working on [veronaApp](http://github.com/octavioserrago/veronaApp)
-- 🧠  I'm learning Astro | Swift
+- 🧠  I'm learning Laravel | Swift
 
  ### Socials  
  <p align="left" mb-2> <a href="https://www.github.com/octavioserrago" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/octavio-serrago-44b955246/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
