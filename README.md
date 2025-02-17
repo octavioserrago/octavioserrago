@@ -4,7 +4,6 @@
 
 - 🌍  I'm based in BA, Argentina
 - ✉️ How to reach me **octavioserrago.dev@gmail.com**
-- 🚀  I'm currently working on [veronaAPI]https://github.com/octavioserrago/veronaAppAPI
 - 🧠  I'm learning React & Astro
 
  ### Socials  
